@@ -1,14 +1,14 @@
 # FontGeneration
 Official PyTorch implementation of the ICME 2023 paper: "Learning Component-Level And Inter-Class Glyph Representation For Few-Shot Font Generation"
 # Dependencies
->torch == 1.12.1
->torchvision == 0.13.1
->tqdm
->opencv-python
->scipy
->sklearn
->matplotlib
->pillow
+>torch == 1.12.1  
+>torchvision == 0.13.1  
+>tqdm  
+>opencv-python  
+>scipy  
+>sklearn  
+>matplotlib  
+>pillow  
 >tensorboardX  
 
 
@@ -24,7 +24,7 @@ Official PyTorch implementation of the ICME 2023 paper: "Learning Component-Leve
 > |&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; --| U_004E0B.jpg  
 > |&#8195;&#8195;&#8195;&#8195; --| ...      
 
-You can download our dataset from [here]. The dataset contains 470 fonts and corresponding component images.
+You can download our dataset from [here](https://pan.baidu.com/s/1vKdVETxMtAWjLVToa43XNA?pwd=aohw ). The dataset contains 470 fonts and corresponding component images.
 
 
 ## Training
